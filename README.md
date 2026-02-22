@@ -58,8 +58,8 @@ Performance improved significantly by upgrading the model architecture and incre
 aerial-human-detection/
 │
 ├── assets/
-│   ├── detection_example.png
-│   └── count_overlay_example.png
+│   ├── detection_example.jpg
+│   └── count_overlay_example.jpg
 │
 ├── dataset_sample/
 │
